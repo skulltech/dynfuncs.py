@@ -2,8 +2,8 @@
 Script for displaying global dynamic function symbols in an elf file.
 
 That usually corresponds to 
-- Dynamically linked external library functions in the case of executables.
-- Exported functions in the case of shared libraries.
+- Dynamically linked external library functions for executables and shared libraries.
+- Exported functions for only shared libraries.
 
 ## Usage
 
